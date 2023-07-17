@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/barbearia/static/css/main.83c0de48.css",
+    "main.js": "/barbearia/static/js/main.f1ca2430.js",
+    "static/media/banner-barbearia.jpg": "/barbearia/static/media/banner-barbearia.6e5abe93cc1c1bbbc2d0.jpg",
+    "index.html": "/barbearia/index.html",
+    "main.83c0de48.css.map": "/barbearia/static/css/main.83c0de48.css.map",
+    "main.f1ca2430.js.map": "/barbearia/static/js/main.f1ca2430.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83c0de48.css",
+    "static/js/main.f1ca2430.js"
+  ]
+}
