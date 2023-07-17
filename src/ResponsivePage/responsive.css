@@ -1,0 +1,99 @@
+@media only screen and (max-width: 410px) {
+    .container-limite {
+        max-width: 375px;
+    }
+
+    header div {
+        height: 8vh;
+        padding: 0 20px;
+    }
+
+    .logoMarca{
+        width: auto;
+        height: 70px;
+    }
+
+    header button {
+
+        font-size: 10px;
+        font-weight: 700;
+        border-radius: 25px;
+        padding: 5px 10px;
+    }
+    
+    .icone-butao {
+        width: 15px;
+        height: 15px;
+        margin-right: 10px;
+    }
+
+    .secao-banner {
+        max-height: 170px;
+        background-size: contain;
+    }
+
+    .secao-texto h1 {
+        font-size: 25px;
+      
+      }
+
+      .primeiro-paragrafo {
+        font-size: 2cqmax;
+    
+      }
+
+      .segundo-paragrafo {
+        line-height: 16px;
+        font-size: 2cqmax;
+      }
+}
+
+@media only screen and (min-width: 411px) and (max-width: 768px) {
+    .container-limite {
+        max-width: 768px;
+    }
+
+    header div {
+        height: 10vh;
+        padding: 0 20px;
+    }
+
+    .logoMarca{
+        width: auto;
+        height: 70px;
+    }
+
+    header button {
+
+        font-size: 15px;
+        font-weight: 700;
+        border-radius: 25px;
+        padding: 5px 15px;
+    }
+    
+    .icone-butao {
+        width: 20px;
+        height: 20px;
+        margin-right: 15px;
+    }
+
+    .secao-banner {
+        max-height: 250px;
+        background-size: cover;
+    }
+
+    .secao-texto h1 {
+        font-size: 5cqmax;
+      
+      }
+
+      .primeiro-paragrafo {
+        font-size: 3cqmax;
+    
+      }
+
+      .segundo-paragrafo {
+        line-height: 25px;
+        font-size: 3cqmax;
+      }
+}
