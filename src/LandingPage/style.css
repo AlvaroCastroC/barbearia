@@ -47,7 +47,7 @@ header button {
 .secao-banner {
     display: flex;
     height: 350px;
-    background-image: url('../assets/banner-barbearia.jpg');
+    background-image: url('../../public/assets/banner-barbearia.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;

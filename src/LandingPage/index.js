@@ -11,7 +11,7 @@ export default function LadingPage () {
 
     const [novoFundo, setNovoFundo] = useState(true)
 
-    const alterarCor = () => {
+        const alterarCor = () => {
             setNovoFundo(!novoFundo);
           };
 
